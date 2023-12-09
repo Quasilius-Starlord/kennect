@@ -1,0 +1,13 @@
+#resultParent {
+    padding:0 ;
+}
+
+#result{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+#All-view-table{
+    max-height: 600px;
+    overflow: scroll;
+}
